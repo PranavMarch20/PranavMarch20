@@ -16,7 +16,7 @@
 `Contact` :
 <br> <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranav20_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavMarch20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavmarch20@gmail.com) 
-<a href="https://codolio.com/profile/SixPackPenguin">
+<a href="https://codolio.com/profile/pranavmarch20">
   <img src="https://em-content.zobj.net/thumbs/120/apple/354/penguin_1f427.png" width="25" />
 </a>
 <br>
