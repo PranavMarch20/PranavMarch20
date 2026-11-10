@@ -1,9 +1,10 @@
 ![P1](https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif)
 <br>
- **👋 Hey there! I'm *`Pranav`* 🐧**
+#  **👋 Hey there! I'm *`Pranav`* 🐧**
 <br>
 <br>
-🚀 B.Tech CSE student passionate about building impactful tech solutions and continuously leveling up my skills in full-stack development and problem solving. I work with the MERN stack, C++, and JavaScript, and enjoy turning ideas into real-world projects like AI-powered systems and scalable web apps. Currently focused on mastering DSA and backend development to crack top product-based companies and grow into a strong software engineer.
+🚀 B.Tech CSE student passionate about building impactful tech solutions and continuously leveling up my skills in full-stack development and problem solving.
+I work with the MERN stack, C++, and JavaScript, and enjoy turning ideas into real-world projects like AI-powered systems and scalable web apps. Currently focused on mastering DSA and backend development to crack top product-based companies and grow into a strong software engineer.
 <br>
 <br>
 `Tech Stack` :
@@ -15,7 +16,7 @@
 <br> <br>
 `Contact` :
 <br> <br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranav20_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavMarch20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavmarch20@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavMarch20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavmarch20@gmail.com) 
 <a href="https://codolio.com/profile/pranavmarch20">
   <img src="https://em-content.zobj.net/thumbs/120/apple/354/penguin_1f427.png" width="25" />
 </a>
