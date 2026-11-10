@@ -1,6 +1,6 @@
 ![P1](https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif)
 <br>
-#  **👋 Hey there! I'm *`Pranav`* 🐧**
+**👋 Hey there! I'm *`Pranav`* 🐧**
 <br>
 <br>
 🚀 B.Tech CSE student passionate about building impactful tech solutions and continuously leveling up my skills in full-stack development and problem solving.
